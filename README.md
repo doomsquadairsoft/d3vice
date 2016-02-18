@@ -26,6 +26,11 @@ This is for end user configuration. It's a way for the ESP8266 to join a WLAN wi
 * If unsuccessfull join, reverts back to AP mode and process can repeat
 
 
+## User guide
+
+Please see the [wiki][3].
+
 [0]:https://github.com/doomsquadairsoft/d3vice-gameserver
 [1]:https://github.com/doomsquadairsoft/d3vice-rpi-sensor
 [2]:https://github.com/doomsquadairsoft/d3vice-client
+[3]:https://github.com/doomsquadairsoft/d3vice.wiki.git
