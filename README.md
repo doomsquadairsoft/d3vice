@@ -33,4 +33,4 @@ Please see the [wiki][3].
 [0]:https://github.com/doomsquadairsoft/d3vice-gameserver
 [1]:https://github.com/doomsquadairsoft/d3vice-rpi-sensor
 [2]:https://github.com/doomsquadairsoft/d3vice-client
-[3]:https://github.com/doomsquadairsoft/d3vice.wiki.git
+[3]:https://github.com/doomsquadairsoft/d3vice/wiki
